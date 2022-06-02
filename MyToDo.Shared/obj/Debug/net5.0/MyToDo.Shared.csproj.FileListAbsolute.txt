@@ -1,0 +1,12 @@
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\bin\Debug\net5.0\MyToDo.Shared.deps.json
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\bin\Debug\net5.0\MyToDo.Shared.dll
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\bin\Debug\net5.0\ref\MyToDo.Shared.dll
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\bin\Debug\net5.0\MyToDo.Shared.pdb
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.csproj.AssemblyReference.cache
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.AssemblyInfoInputs.cache
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.AssemblyInfo.cs
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.csproj.CoreCompileInputs.cache
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.dll
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\obj\Debug\net5.0\ref\MyToDo.Shared.dll
+E:\CODE\MyToDoApp.git\trunk\MyToDo\MyToDo\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.pdb
